@@ -95,7 +95,7 @@ Item added to cart
 Checkout
 ![Checkout](Images/checkout.png)
 
-Payment Succesful
+Payment Successful
 ![After payment](Images/finally.png)
 
 ## Requirements
